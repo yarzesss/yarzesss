@@ -7,7 +7,7 @@
 
 # Roman Aleksiichuk
 
-**`Full-Stack · Solana · Automation`** &nbsp;·&nbsp; Student @ TNTU Software Engineering
+**`Full-Stack · Solana · Automation`** &nbsp;·&nbsp; 
 
 
 [![CobwebScan](https://img.shields.io/badge/CobwebScan-%230d0d14?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9IiNGRjJENzgiLz48L3N2Zz4=&logoColor=FF2D78&label=🕷)](https://cobwebscan.xyz)
