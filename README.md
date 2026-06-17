@@ -9,8 +9,7 @@
 
 **`Full-Stack · Solana · Automation`** &nbsp;·&nbsp; Student @ TNTU Software Engineering
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d0d14?style=for-the-badge&logo=linkedin&logoColor=FF2D78)](https://www.linkedin.com/in/roman-aleksiichuk-8b40a5417/)
-[![Telegram](https://img.shields.io/badge/Telegram-%230d0d14?style=for-the-badge&logo=telegram&logoColor=FF2D78)](https://t.me/YOUR_TG)
+
 [![CobwebScan](https://img.shields.io/badge/CobwebScan-%230d0d14?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAxNiAxNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIGZpbGw9IiNGRjJENzgiLz48L3N2Zz4=&logoColor=FF2D78&label=🕷)](https://cobwebscan.xyz)
 
 </div>
@@ -21,7 +20,7 @@
 
 ### Smart money or a coordinated cabal?
 
-Студент ТНТУ. Паралельно будую реальні продукти —  
+Будую реальні продукти —  
 MVP, SaaS, торгові боти на Solana, Telegram-автоматизацію.
 
 Не зникаю зі зв'язку. Бачу кращий підхід — кажу одразу.  
