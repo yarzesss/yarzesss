@@ -5,7 +5,7 @@
 
 <br/>
 
-# Roman Aleksiichuk
+
 
 **`Full-Stack · Solana · Automation`** &nbsp;·&nbsp; 
 
